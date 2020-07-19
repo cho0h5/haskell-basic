@@ -1,5 +1,0 @@
-abca
-vim
-emacs
-vs code
-mono asdf ji
